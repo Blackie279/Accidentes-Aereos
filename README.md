@@ -27,25 +27,25 @@ Es importante destacar que este proyecto no solo se enfoca en la recopilación y
 ### Verificación de Nulos, Duplicados y Outliers
 En esta sección se realizó un análisis para identificar la presencia de datos faltantes, duplicados y valores atípicos en el conjunto de datos.
 
+## Análisis Detallado
+
+El análisis se centra en diversas relaciones cuantitativas y cualitativas, que proporcionan información valiosa sobre los accidentes aéreos:
+
 ### Relación entre Cantidad de Vuelos, Pasajeros y Fallecimientos por Década
 
-**Conclusión:**
-Entre las décadas de 1940 y 2000 se registran la mayor cantidad de vuelos accidentados (+500). Sin embargo, la mayor cantidad de pasajeros y fallecidos son entre 1960 y 1990 comenzando a descender drásticamente desde los 2000 en adelante.
+Se examina cómo la cantidad de vuelos registrados, el número de pasajeros a bordo y los fallecimientos totales están distribuidos a lo largo de las décadas. Esto permite identificar tendencias y patrones en la seguridad aérea a lo largo del tiempo.
 
 ### Relación entre Total de Personas a Bordo y Fallecidos Totales
 
-**Conclusión:**
-La concentración de fallecimientos es más notable en accidentes con menos de 100 personas a bordo. Esto sugiere que la seguridad en los vuelos con menor ocupación podría requerir una atención especial para minimizar los riesgos de lesiones y fallecimientos. Sin embargo, seguiremos analizando otros factores para entender con más claridad.
+Este análisis busca comprender la relación entre la cantidad total de personas a bordo de una aeronave y el número de fallecimientos resultantes de un accidente. Se exploran posibles correlaciones entre estos dos factores.
 
 ### Relación entre Tipos de Aeronave con Cantidad de Accidentes y Décadas
 
-**Conclusión:**
-Las aeronaves Douglas DC-3 y DHC-6 Twin Otter fueron los modelos que más accidentes causaron en las décadas con más accidentes. Su popularidad era altísima y ambos eran para llevar pasajeros a bordo, este dato explica la cantidad de fallecidos durante esas décadas.
+Se investiga cómo los diferentes tipos de aeronaves han contribuido a la cantidad de accidentes a lo largo de las décadas. Esto proporciona información importante sobre la seguridad y el desempeño de modelos específicos de aeronaves.
 
 ### Relación entre Operadores, Cantidad de Accidentes y Fallecimientos
 
-**Conclusión:**
-A pesar de que el ejército militar de Estados Unidos es el operador con más accidentes, no es el operador con más fallecidos ya que el primer lugar se lo lleva Aeroflot. Esto es debido a que Aeroflot es de vuelos comerciales, por lo tanto, lleva más pasajeros.
+Este análisis se centra en los distintos operadores de aeronaves y su relación con la cantidad de accidentes y el número de fallecimientos. Se busca comprender la incidencia de diferentes operadores en la seguridad de la aviación.
 
 ## KPI: Reducción de la Tasa de Fatalidad de la Tripulación
 
