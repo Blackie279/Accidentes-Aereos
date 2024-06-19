@@ -1,5 +1,6 @@
 # Accidentes-Aereos
 Proyecto Individual Data Analytics Henry
+![image](https://github.com/Blackie279/Accidentes-Aereos/assets/122805942/50837a09-4def-432a-ba3d-73a28db6589e)
 
 El proyecto de Análisis de Accidentes Aéreos se enfoca en el estudio y evaluación de incidentes y accidentes ocurridos en el ámbito de la aviación. El objetivo principal es analizar y comprender los factores que contribuyen a estos eventos, así como identificar posibles medidas preventivas y de mejora en materia de seguridad aérea.
 
